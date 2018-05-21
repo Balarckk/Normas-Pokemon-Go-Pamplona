@@ -36,8 +36,6 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 ## Registro y validación de usuarios<a name="section3">
 
-* Lo primero que has de hacer, es validarte con oak, para eso haz lo siguiente:
-
 1 - Abre el juego.
 
 2 - Renombra tu compañero como Oak (después del proceso podrás volver a ponerle el nombre que quieras).
