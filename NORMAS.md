@@ -32,7 +32,7 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 ## Grupos relacionados<a name="section2">
 
-* **RAIDS:** Cuando estés validado, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
+* **RAIDS:** Cuando estés validado tanto en oak como en pikachu, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
 ## Registro y validación de usuarios<a name="section3">
 
