@@ -22,9 +22,13 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * El hecho de no haber leido las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
+* No se permite la entrada a menores de 16 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
+
 * Para poder dirigirse a ti e identificarse es obligatorio que te pongas un alias y una imagen de perfil (desde ajustes de telegram).
 
 * Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
+
+* No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar faltas especulaciones.
 
 * Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creo que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
