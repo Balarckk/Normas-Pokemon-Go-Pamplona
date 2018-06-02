@@ -40,7 +40,8 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 * **RAIDS:** Cuando estés validado tanto en oak como en pikachu, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
-* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
+* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello 
+https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
 
 ## Registro y validación de usuarios<a name="section3">
 
