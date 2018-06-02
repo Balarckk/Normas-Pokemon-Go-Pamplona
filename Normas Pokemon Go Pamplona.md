@@ -32,6 +32,8 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creo que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
+* No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
+
 No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
 ## Grupos relacionados<a name="section2">
@@ -40,27 +42,23 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 ## Registro y validación de usuarios<a name="section3">
 
-1 - Abre el juego.
+1 - Pide nombre para tu compañero y hacer una captura del perfil de tu juego.
 
-2 - Renombra tu compañero como Oak (después del proceso podrás volver a ponerle el nombre que quieras).
+2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin.
 
-3 - Abre un privado con @ProfesorOak_bot dale a iniciar abajo y dile "Quiero validarme" y te pedirá una serie de cosas, entre ellas una captura de pantalla de tu perfil del juego en donde sales con el compañero que acabas de renombrar (Tiene que verse la hora del teléfono).
+3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura con unas condiciones especificas.
 
-4 - Envia la captura dentro de los 5 siguientes minutos a haberle dicho quiero validarme, si no la validación fallará.
+4 - Envía una captura de la confirmación de pikachu en el grupo de validaciones.
 
-5 - Ahora toca esperar, oak contestará con un enviado correctamente y al cabo de un rato (el tiempo depende del trabajo del equipo de validación), te dirá que ya estas validado.
+5 - Ponte un alias y un avatar en los ajustes del telegram.
 
-6 - Siguiente paso, validarse con @detectivepikachubot , abre privado con el, vete al privado del @ProfesorOak_bot y preguntale "Quien soy?" sin las comillas, reenvía su respuesta a @detectivepikachubot , si lo has hecho bien te dirá que reconoce tu nivel y color, no sirve copiar y pegar, tiene que ser reenviar.
+6 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
 
-7 - Ponte un alias y un avatar en los ajustes del telegram.
+7 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
 
-8 - Cuando hayas hecho eso, avisa a un admin escribiendo que ya estas validado y poniendo @admin en el cuerpo del mensaje, un admin lo revisará y te meterá al grupo de raids de Pamplona.
+8 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. 
 
-9 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en este grupo.
-
-10 - Para actualizar tú nivel en oak solo has de decirle a oak por privado soy nivel y tú nuevo nivel y para actualizarlo en pikachu has de preguntar a oak por privado quién soy y reenviarlo a pikachu también por privado. 
-
-11 - Cualquier duda, preguntala en el grupo poniendo en el cuerpo @admin , o abriendo privado con uno, son los que en la lista de usuarios salen con una estrellita, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos
+9 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
 
 ## Raids<a name="section4">
 
