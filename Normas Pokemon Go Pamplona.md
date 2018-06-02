@@ -18,7 +18,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 * Es obligatorio cumplir las normas del siguiente enlace:
 
-https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.md
+https://bit.ly/2LhLyj3
 
 * El hecho de no haber leido las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
@@ -34,6 +34,8 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
 
+* No está permitido hablar de religión, política, deportes o temas que lleven a cualquier debate interminable y subido de tono.
+
 No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
 ## Grupos relacionados<a name="section2">
@@ -42,7 +44,7 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 * **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello.
 
-https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
+https://bit.ly/2Lgcgsb
 
 ## Registro y validación de usuarios<a name="section3">
 
