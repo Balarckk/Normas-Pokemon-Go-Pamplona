@@ -28,7 +28,7 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
 
-* No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar faltas especulaciones.
+* No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
 
 * Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creo que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
