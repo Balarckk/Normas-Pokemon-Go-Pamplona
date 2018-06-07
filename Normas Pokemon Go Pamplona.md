@@ -30,7 +30,7 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
 
-* Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creo que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
+* Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
 * No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
 
