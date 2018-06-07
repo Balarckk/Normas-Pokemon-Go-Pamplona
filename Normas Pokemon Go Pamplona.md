@@ -28,9 +28,9 @@ https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.
 
 * Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
 
-* No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar faltas especulaciones.
+* No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
 
-* Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creo que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
+* Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
 * No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
 
@@ -42,7 +42,9 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 * **RAIDS:** Cuando estés validado, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
-* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
+* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello. 
+
+https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
 
 ## Registro y validación de usuarios<a name="section3">
 
