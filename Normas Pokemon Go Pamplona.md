@@ -48,13 +48,13 @@ https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
 
 ## Registro y validación de usuarios<a name="section3">
 
-1 - Pide nombre para tu compañero y hacer una captura del perfil de tu juego.
+1 - Pide nombre para tu compañero y hacer una captura de pantalla del perfil de tu juego.
 
-2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin.
+2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
-3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura con unas condiciones especificas.
+3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones especificas.
 
-4 - Envía una captura de la confirmación de pikachu en el grupo de validaciones.
+4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
 5 - Ponte un alias y un avatar en los ajustes del telegram.
 
