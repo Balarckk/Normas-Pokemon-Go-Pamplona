@@ -52,7 +52,7 @@ https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
 
 2 - Abre el juego y renombra tu compañero con el nombre que te haya dicho un admin, haz la captura de pantalla y envíala al grupo de validaciones, no pueden pasar más de 5 minutos desde que se hace hasta que se envía.
 
-3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones especificas.
+3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
 4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
 
