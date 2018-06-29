@@ -18,7 +18,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 * Es obligatorio cumplir las normas del siguiente enlace:
 
-https://github.com/duhow/Trainer-Conduct-Code/blob/master/es/TCC-V1-OAK-GENERAL.md
+https://bit.ly/2KzBamz
 
 * El hecho de no haber leido las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
@@ -44,7 +44,11 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 * **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello.
 
-https://t.me/joinchat/GldVhhHOwzIiZQk2UO6pRA
+https://bit.ly/2lJhO3S
+
+* **INTERCAMBIOS** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
+
+https://bit.ly/2yTOi4I
 
 ## Registro y validación de usuarios<a name="section3">
 
