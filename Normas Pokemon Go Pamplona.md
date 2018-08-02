@@ -40,9 +40,7 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 * **RAIDS:** Cuando estés validado, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
-* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello.
-
-https://bit.ly/2v0sTSV
+* **AVISTAMIENTOS:** En este grupo se anuncian pokemon, misiones y demas cosas que se han encontrado por la comarca por si hay algún interesado en ir a por ello, contactar con @socebar o @viernra1 para que os agreguen.
 
 * **INTERCAMBIOS** En este grupo puedes interactuar con otros jugadores buscando posibles intercambios de pokemon.
 
