@@ -11,6 +11,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	1. [Crear una Raid](#section11)
     2. [Editar, cancelar y borrar una Raid](#section12)
 	3. [Apuntarse a una Raid](#section13)
+	4. [Añadir nuevos gimnasios a Pikachu](#section14)
 
 ## Normas Básicas<a name="section1">
 
@@ -139,3 +140,7 @@ Si te has apuntado pero no vas a ir, pulsa en `No voy`. Si han pasado más de ci
 Para poder apuntarse a una Raid es `necesario tener un alias definido` en Telegram. Además, `hay que estar validado` en el bot. Si no puedes apuntarte por alguno de estos motivos, el bot te informará.
 
 Para que la participación sea contabilizada para los rankings hay que `apuntarse antes de la hora de inicio acordada` y `pulsar en Estoy` en cualquier momento, de forma que quede marcado que has acudido a la Raid. La configuración del caracol 🐌 no tiene efecto alguno. Además deben estar validados en el momento de generar el ranking.
+
+### Añadir nuevos gimnasios a Pikachu<a name="section14">
+
+Para poder mantener actualizada la lista de gimnasios del bot, cada vez que se añada al juego un gimnasio es necesario `compartir la ubicación exacta` con la opción de telegram de `compartir ubicación`, el `nombre exacto del gimnasio` y todo ello nombrando a `@balarckk` si no se comparte esa información, no se puede añadir al bot, de nada vale decir hay un gimnasio nuevo en Mendillorri o Burlada o donde sea.
