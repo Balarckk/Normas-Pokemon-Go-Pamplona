@@ -135,7 +135,7 @@ El creador de una Raid es el responsable de mantener informados a los jugadores 
 
 Una vez creada la Raid, puedes apuntarse pulsando en el botón `Voy`. Si te apuntas unos pocos minutos antes de la hora fijada, o incluso después, podrías aparecer con un icono de un caracol 🐌 en el listado, dependiendo de cómo esté configurado el grupo.
 
-Si vas con acompañantes, puedes pulsar el botón `+1` por cada acompañante adicional, `esta opción esta pensada sobre todo para `padres con hijos, personas que vienen de paso o nuevos jugadores, una vez sean habituales, que se metan al grupo, no cuesta nada`. Si te has pasado, pulsa en `Voy` para poner esta cuenta a cero y volver a empezar. Ten en cuenta que los administradores de los grupos pueden limitar el número de acompañantes permitidos o deshabilitar completamente esta opción.
+Si vas con acompañantes, puedes pulsar el botón `+1` por cada acompañante adicional, `esta opción esta pensada sobre todo para padres con hijos, personas que vienen de paso o nuevos jugadores, una vez sean habituales, que se metan al grupo, no cuesta nada`. Si te has pasado, pulsa en `Voy` para poner esta cuenta a cero y volver a empezar. Ten en cuenta que los administradores de los grupos pueden limitar el número de acompañantes permitidos o deshabilitar completamente esta opción.
 
 Cuando estés en el lugar de la Raid, puedes pulsar el botón `Estoy ahí` para indicarlo.
 
