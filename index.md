@@ -1,4 +1,4 @@
-# Normas Pokemon Go Pamplona
+# Bienvenido al grupo de Pamplona
 
 En estas normas, además de tratar de que haya una buena conducta y buen ambiente, pondremos un resumen de las utilidades de los bots que mas usamos y como se usan estas.
 
@@ -103,6 +103,10 @@ https://bit.ly/2yTOi4I
 
 * Para poder crear una Raid es necesario tener un alias definido en Telegram y estar validado.
 
+* La creación de Raids EX se `hará exclusivamente fuera de horario de Raids normales y una vez no haya ninguna raid EX activa de la oleada anterior de pases`.
+
+* Para poder `participar en una Raid EX` es necesario haber `recibido un pase EX (pase negro) previamente`.
+
 ### Editar, cancelar y borrar una Raid<a name="section12">
 
 Se pueden editar y añadir todos los detalles de la Raid después de crearla: cambiar la hora, el gimnasio, el Pokémon (o el huevo) y la hora a la que desaparece.
@@ -143,4 +147,4 @@ Para que la participación sea contabilizada para los rankings hay que `apuntars
 
 ### Añadir nuevos gimnasios a Pikachu<a name="section14">
 
-Para poder mantener actualizada la lista de gimnasios del bot, cada vez que se añada al juego un gimnasio es necesario `compartir la ubicación exacta` con la opción de telegram de `compartir ubicación`, el `nombre exacto del gimnasio` y todo ello nombrando a `@balarckk` si no se comparte esa información, no se puede añadir al bot, de nada vale decir hay un gimnasio nuevo en Mendillorri o Burlada o donde sea.
+Para poder mantener actualizada la lista de gimnasios del bot, cada vez que se añada al juego un gimnasio es necesario facilitar el nombre exacto del mismo, para eso lo copiaremos y citaremos a @Balarckk para que sepa del nuevo gym, si más personas van a avisar de nuevos gyms, que copien la lista anterior din crear y la peguen añadiendo el nuevo.
