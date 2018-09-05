@@ -9,7 +9,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 3. [Registro y validación de usuarios](#section3)
 4. [Raids](#section4)
 	1. [Crear una Raid](#section11)
-    	2. [Editar, cancelar y borrar una Raid](#section12)
+    2. [Editar, cancelar y borrar una Raid](#section12)
 	3. [Apuntarse a una Raid](#section13)
 	4. [Añadir nuevos gimnasios a Pikachu](#section14)
 
