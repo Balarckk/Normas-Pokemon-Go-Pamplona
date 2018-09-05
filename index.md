@@ -8,6 +8,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 2. [Grupos relacionados](#section2)
 3. [Registro y validación de usuarios](#section3)
 4. [Raids](#section4)
+
 	I. [Crear una Raid](#section11)
     	II. [Editar, cancelar y borrar una Raid](#section12)
 	III. [Apuntarse a una Raid](#section13)
