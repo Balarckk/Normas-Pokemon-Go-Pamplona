@@ -17,9 +17,9 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 * Para poder entrar al grupo, deberás confirmar tu identidad de Pokémon GO (validarte ). 
 
-* Es obligatorio cumplir las normas de entrenador de Pokemon Go.
+* Es obligatorio cumplir las `normas de entrenador de Pokemon Go`.
 
-* El hecho de no haber leido las normas, no implica que no pueda haber un aviso/sanción correspondiente.
+* El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
 * No se permite la entrada a menores de 16 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
 
@@ -135,7 +135,7 @@ El creador de una Raid es el responsable de mantener informados a los jugadores 
 
 Una vez creada la Raid, puedes apuntarse pulsando en el botón `Voy`. Si te apuntas unos pocos minutos antes de la hora fijada, o incluso después, podrías aparecer con un icono de un caracol 🐌 en el listado, dependiendo de cómo esté configurado el grupo.
 
-Si vas con acompañantes, puedes pulsar el botón `+1` por cada acompañante adicional. Si te has pasado, pulsa en `Voy` para poner esta cuenta a cero y volver a empezar. Ten en cuenta que los administradores de los grupos pueden limitar el número de acompañantes permitidos o deshabilitar completamente esta opción.
+Si vas con acompañantes, puedes pulsar el botón `+1` por cada acompañante adicional, `esta opción esta pensada sobre todo para `padres con hijos, personas que vienen de paso o nuevos jugadores, una vez sean habituales, que se metan al grupo, no cuesta nada`. Si te has pasado, pulsa en `Voy` para poner esta cuenta a cero y volver a empezar. Ten en cuenta que los administradores de los grupos pueden limitar el número de acompañantes permitidos o deshabilitar completamente esta opción.
 
 Cuando estés en el lugar de la Raid, puedes pulsar el botón `Estoy ahí` para indicarlo.
 
