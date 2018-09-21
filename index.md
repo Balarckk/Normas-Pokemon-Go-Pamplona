@@ -21,7 +21,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 * El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
-* No se permite la entrada a menores de 16 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
+* No se permite la entrada a menores de 18 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
 
 * Para poder dirigirse a ti e identificarse es obligatorio que te pongas un alias y una imagen de perfil (desde ajustes de telegram).
 
