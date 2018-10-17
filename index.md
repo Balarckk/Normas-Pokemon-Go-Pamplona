@@ -67,6 +67,8 @@ https://bit.ly/2yTOi4I
 
 9 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
 
+10 - Los admins también tenemos derecho de relajarnos y desconectar, así que nos ponemos un horario de validaciones que será entre las 8h y las 22h, cualquier petición fuera de ese horario será ignorada.
+
 ## Raids<a name="section4">
 
 ### Crear una Raid<a name="section11">
