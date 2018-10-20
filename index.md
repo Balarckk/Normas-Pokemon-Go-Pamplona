@@ -63,19 +63,21 @@ https://bit.ly/2yTOi4I
 
 3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-4 - Envía una captura de pantalla de la confirmación de pikachu en el grupo de validaciones.
+4 - Cuando hayas recibido la confirmación de que estás validado escribe en el privado de pikachu /profile , abre privado con @profserbalbot y enviale la respuesta de pikachu a este.
 
-5 - Ponte un alias y un avatar en los ajustes del telegram.
+5 - Envía una captura de pantalla de la confirmación de pikachu y otra de serbal en el grupo de validaciones.
 
-6 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
+6 - Ponte un alias y un avatar en los ajustes del telegram.
 
-7 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
+7 - Cuando hayas hecho eso, un admin lo revisará y te meterá al grupo de raids de Pamplona y al General.
 
-8 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. 
+8 - En el grupo de raids no se puede hablar, solo crear raids, todo lo que no sea raids es borrado por el bot, asi que si quieres consultar algo, es mejor que permanezcas en el grupo general.
 
-9 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
+9 - Para indicar una subida de nivel, basta con enviar una captura de pantalla del perfil donde se vea el nuevo nivel, una vez se esté validado. Si el bot no contesta nada, es debido a que el estado de validación no es correcto. 
 
-10 - Los admins también tenemos derecho de relajarnos y desconectar, así que nos ponemos un horario de validaciones que será entre las 8h y las 22h, cualquier petición fuera de ese horario será ignorada.
+10 - Cualquier duda preguntala en el grupo, si no te resuelve la duda cualquier usuario amable, aparecerá algun admin y la resolverá, tened paciencia, los admins tenemos vida privada y también trabajamos.
+
+11 - Los admins también tenemos derecho de relajarnos y desconectar, así que nos ponemos un horario de validaciones que será entre las 8h y las 22h, cualquier petición fuera de ese horario será ignorada.
 
 ## Raids<a name="section4">
 
