@@ -161,7 +161,7 @@ Ejemplo de respuesta:
 
 `• Magikarp: yamaguchi`
 
-Próxima migración: 20/09/18`
+`Próxima migración: 20/09/18`
 
 **Con comando** es la forma mas corta de hacerlo pero tambien se puede hacer como pone en **Alias de texto**
 
