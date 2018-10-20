@@ -167,7 +167,7 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 
 ### Si ya estas validado con Picachu<a name="section19">
 
-Si ya estáis validados con Pikachu, que supongo que sois todos por el tema de las raids, le escribis a @detectivepikachubot por privado /profile y lo que os responda lo reenvíais a @profserbalbot y os valida automáticamente
+Si ya estáis validados con Pikachu, que supongo que sois todos por el tema de las raids, le escribis a @detectivepikachubot por privado /profile y lo que os responda lo reenvíais a @profserbalbot y os valida automáticamente.
 
 ### Registrarse en el bot<a name="section15">
 
@@ -301,6 +301,6 @@ Si la lista contiene más de 5 codigos, Serbal dejará un botón para pedir que 
 
 La lista de códigos nunca se compartirá en el grupo, si alguien la quiere solicitar que se valide en el bot y si alguien la comparte, puede ser baneado.
 
-`**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SI VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.**`
+`**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SU VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.**`
 
 `**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS Y LISTA DE AMIGOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**`
