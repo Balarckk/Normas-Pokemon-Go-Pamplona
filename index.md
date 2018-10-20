@@ -10,7 +10,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 4. [Registro de nidos y uso de Serbal](#section4)
 	1. [Registrarse en el bot](#section15)
 	2. [Validarse en el bot](#section16)
-	3. [Listas de nidos](#section17)
+    3. [Listas de nidos](#section17)
 5. [Raids](#section5)
 	1. [Crear una Raid](#section11)
     2. [Editar, cancelar y borrar una Raid](#section12)
