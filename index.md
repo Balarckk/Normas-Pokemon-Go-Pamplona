@@ -80,13 +80,17 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 ### Registrarse en el bot<a name="section15">
 
 `1 - /register o Quiero registrarme
+
 2 - Nick de entrenador
+
 3 - Nivel (solo números)
+
 4 - Color (equipo al que perteneces)`
 
 ### Validarse en el bot<a name="section16">
 
 `1 - /validate o Quiero validarme
+
 2 - Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
 
 Una vez validado podrás hacer uso de las funcionalidades del bot, por ahora aqui solo se va a usar para nidos.
@@ -98,32 +102,39 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 * Registrar un nido
 
 **Con comando:** /addnest {Pokémon} {Ubicación}
+
 **Alias de texto:** Registrar nido de {Pokémon} en {Ubicación}
 
 **Ejemplos:**
 
 `/addnest Magikarp vuelta del castillo
+
 Registrar nido de Magikarp en vuelta del castillo`
 
 * Borrar un nido
 
 **Con comando:** /delnest {Pokémon} {Ubicación}
+
 **Alias de texto:** Borrar nido de {Pokémon} en {Ubicación}
 
 * Preguntar por una especie concreta
 
 **Con comando:** /findnest {Pokémon}
+
 **Alias de texto:** Dónde hay {Pokémon}[?]
 
 **Ejemplos de uso:**
 
 `/findnest Magikarp
+
 Dónde hay Magikarp?
+
 Donde hay magikarp`
 
 * Ver Pokémon anidados
 
 **Con comando:** /nests
+
 **Alias de texto:** Lista de nidos
 
 **Ejemplo de respuesta:**
@@ -135,6 +146,7 @@ Puedes ver la lista completa con /listnests.`
 * Ver lista completamente
 
 **Con comando:** /listnests
+
 **Alias de texto:** Lista de nidos completa
 
 **Ejemplo de respuesta:**
@@ -142,9 +154,13 @@ Puedes ver la lista completa con /listnests.`
 `Nidos del grupo Pokémon Go Pamplona
 
 • Bulbasaur: parque ribed
+
 • Electrike: vuelta del castillo
+
 • Doduo: parque uranga en burlada
+
 • Drowzee: parque de los aromas
+
 • Magikarp: yamaguchi
 
 Próxima migración: 20/09/18`
@@ -170,7 +186,9 @@ Próxima migración: 20/09/18`
 * Algunos ejemplos:
 
 `/raid Latios 14:30 Pasen y Beban
+
 /raid Tyranitar 3:30 Burrito Piedra
+
 /raid Magikarp 12 Monumento al Encierro 12:15`
 
 * En lugar de especificar un Pokémon, se puede especificar un huevo, por ejemplo, para un huevo de nivel 4 se pondría N4:
@@ -198,9 +216,13 @@ Se pueden editar y añadir todos los detalles de la Raid después de crearla: ca
 Para editar o añadir cualquiera de estos detalles, el creador de la Raid puede contestar al mensaje de la Raid con uno de estos comandos:
 
 `/time 12:00
+
 /pokemon Wartortle
+
 /gym Plaza de Abastos
+
 /endtime 12:30
+
 /endtime -`
 
 En el caso de pasar una barra horizontal - como argumento a `/endtime`, se borrará la hora de fin.
