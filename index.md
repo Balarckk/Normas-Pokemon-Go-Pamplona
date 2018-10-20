@@ -105,7 +105,7 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 **Alias de texto:** Registrar nido de {Pokémon} en {Ubicación}
 
-**Ejemplos:**
+Ejemplos:
 
 `/addnest Magikarp vuelta del castillo`
 
@@ -123,7 +123,7 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 **Alias de texto:** Dónde hay {Pokémon}[?]
 
-**Ejemplos de uso:**
+Ejemplos de uso:
 
 `/findnest Magikarp`
 
@@ -137,19 +137,19 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 **Alias de texto:** Lista de nidos
 
-**Ejemplo de respuesta:**
+Ejemplo de respuesta:
 
 `Hay nidos de: Bulbasaur, Electrike, Doduo, Drowzee, Magikarp.`
 
-Puedes ver la lista completa con /listnests.`
+Puedes ver la lista completa con /listnests.
 
-* Ver lista completamente
+* Ver lista completa
 
 **Con comando:** /listnests
 
 **Alias de texto:** Lista de nidos completa
 
-**Ejemplo de respuesta:**
+Ejemplo de respuesta:
 
 `Nidos del grupo Pokémon Go Pamplona`
 
