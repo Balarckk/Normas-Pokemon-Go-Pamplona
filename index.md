@@ -41,7 +41,9 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bien entre todos. Dicho esto, disfruta de tu estancia aquí, ¡y hazte con todos!
 
-## Grupos relacionados<a name="section2">
+## Canales y Grupos relacionados<a name="section2">
+
+* **CANAL DE NOTICIAS POKEMON GO PAMPLONA:** Este canal es para informar de los cambios, novedades y demás información que requiera estar localizada dada su importancia, para unirte usa el enlace https://t.me/joinchat/AAAAAE9o2bYEeU79Wca2RQ
 
 * **RAIDS:** Cuando estés validado, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
