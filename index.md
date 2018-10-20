@@ -165,6 +165,8 @@ Ejemplo de respuesta:
 
 **Con comando** es la forma mas corta de hacerlo pero tambien se puede hacer como pone en **Alias de texto**
 
+**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**
+
 ## Raids<a name="section5">
 
 ### Crear una Raid<a name="section11">
