@@ -95,7 +95,7 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 
 Una vez validado podrás hacer uso de las funcionalidades del bot, por ahora aqui solo se va a usar para nidos.
 
-Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede saberlo sin preguntar continuamente, lo único que has de hacer es compartir desde el juego tu código amigo con el chat pribado de Serbal.
+Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede saberlo sin preguntar continuamente, lo único que has de hacer es compartir desde el juego tu código amigo con el chat privado de Serbal.
 
 ### Listas de nidos<a name="section17">
 
