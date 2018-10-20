@@ -90,11 +90,11 @@ https://bit.ly/2yTOi4I
 
 * Algunos ejemplos:
 
-`/raid Latios 14:30 Pasen y Beban
+`/raid Latios 14:30 Pasen y Beban`
 
-/raid Tyranitar 3:30 Burrito Piedra
+`/raid Tyranitar 3:30 Burrito Piedra`
 
-/raid Magikarp 12 Monumento al Encierro 12:15`
+`/raid Magikarp 12 Monumento al Encierro 12:15`
 
 * En lugar de especificar un Pokémon, se puede especificar un huevo, por ejemplo, para un huevo de nivel 4 se pondría N4:
 
@@ -120,15 +120,15 @@ Se pueden editar y añadir todos los detalles de la Raid después de crearla: ca
 
 Para editar o añadir cualquiera de estos detalles, el creador de la Raid puede contestar al mensaje de la Raid con uno de estos comandos:
 
-`/time 12:00
+`/time 12:00`
 
-/pokemon Wartortle
+`/pokemon Wartortle`
 
-/gym Plaza de Abastos
+`/gym Pasen y Beban`
 
-/endtime 12:30
+`/endtime 12:30`
 
-/endtime -`
+`/endtime -`
 
 En el caso de pasar una barra horizontal - como argumento a `/endtime`, se borrará la hora de fin.
 
@@ -166,13 +166,13 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 
 ### Registrarse en el bot<a name="section15">
 
-`1 - /register o Quiero registrarme
+`1 - /register o Quiero registrarme`
 
-2 - Nick de entrenador
+`2 - Nick de entrenador`
 
-3 - Nivel (solo números)
+`3 - Nivel (solo números)`
 
-4 - Color (equipo al que perteneces)`
+`4 - Color (equipo al que perteneces)`
 
 ### Validarse en el bot<a name="section16">
 
@@ -194,9 +194,9 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 Ejemplos:
 
-`/addnest Magikarp vuelta del castillo
+`/addnest Magikarp vuelta del castillo`
 
-Registrar nido de Magikarp en vuelta del castillo`
+`Registrar nido de Magikarp en vuelta del castillo`
 
 * Borrar un nido
 
@@ -212,11 +212,11 @@ Registrar nido de Magikarp en vuelta del castillo`
 
 Ejemplos de uso:
 
-`/findnest Magikarp
+`/findnest Magikarp`
 
-Dónde hay Magikarp?
+`Dónde hay Magikarp?`
 
-Donde hay magikarp`
+`Donde hay magikarp`
 
 * Ver Pokémon anidados
 
@@ -236,21 +236,27 @@ Ejemplo de respuesta:
 
 Ejemplo de respuesta:
 
-`Nidos del grupo Pokémon Go Pamplona
+`Nidos del grupo Pokémon Go Pamplona`
 
-• Bulbasaur: parque ribed
+`• Bulbasaur: parque ribed` 
 
-• Electrike: vuelta del castillo
+`• Electrike: vuelta del castillo`
 
-• Doduo: parque uranga en burlada
+`• Doduo: parque uranga en burlada`
 
-• Drowzee: parque de los aromas
+`• Drowzee: parque de los aromas`
 
-• Magikarp: yamaguchi
+`• Magikarp: yamaguchi`
 
-Próxima migración: 20/09/18`
+`Próxima migración: 20/09/18`
+
+Si la lista contiene más de 7 nidos registrados, Serbal dejará un botón para pedir que te la envie por privado, cualquier otro usuario validado puede darle al botón.
+
+La lista de nidos nunca se compartirá en el grupo, si alguien la quiere solicitar que se valide en el bot y si alguien la comparte, puede ser baneado.
 
 **Con comando** es la forma mas corta de hacerlo pero tambien se puede hacer como pone en **Alias de texto**
+
+La lista de nidos
 
 ### Código amigo<a name="section18">
 
@@ -260,16 +266,36 @@ Enviando por privado a Serbal el mensaje generado por el juego `¡Comencemos una
 
 **Borrar codigo amigo:**
 
-`• /set fc 000000000000 (12 ceros)`
+`/set fc 000000000000 (12 ceros)`
 
 Ejemplo:
 
-`Yo:
+`Yo:`
 
-/set fc 000000000000
+`/set fc 000000000000`
 
-Profesor Serbal:
+`Profesor Serbal:`
 
-He actualizado tu código de amigo.`
+`He actualizado tu código de amigo.`
 
-**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**
+**Apuntarse a una lista**
+
+`/regfc` (sin argumentos)
+
+`**Despues de apuntarse a una lista, cada uno ha de borrar su comando.**`
+
+**Borrarse de una lista**
+
+`/delfc`
+
+**Pedir la lista**
+
+`/listfc` 
+
+Si la lista contiene más de 5 codigos, Serbal dejará un botón para pedir que te la envie por privado, cualquier otro usuario validado puede darle al botón.
+
+La lista de códigos nunca se compartirá en el grupo, si alguien la quiere solicitar que se valide en el bot y si alguien la comparte, puede ser baneado.
+
+**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SI VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.
+
+`**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**`
