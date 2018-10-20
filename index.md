@@ -43,7 +43,7 @@ No somos estrictos, pero hay que cumplir un mínimo de convivencia para estar bi
 
 ## Canales y Grupos relacionados<a name="section2">
 
-* **CANAL DE NOTICIAS POKEMON GO PAMPLONA:** Este canal es para informar de los cambios, novedades y demás información que requiera estar localizada dada su importancia, para unirte usa el enlace https://t.me/joinchat/AAAAAE9o2bYEeU79Wca2RQ
+* **CANAL DE NOTICIAS POKEMON GO PAMPLONA:** Este canal es para informar de los cambios, novedades y demás información que requiera estar localizada dada su importancia, para unirte usa el enlace https://bit.ly/2AkvbiU
 
 * **RAIDS:** Cuando estés validado, pide a algún admin que te meta.  En ese grupo se organizan las Raids (Incursiones). Todo lo relacionado con la organización de ellas debe hablarse aquí. Para unirse es necesario estar validado.
 
