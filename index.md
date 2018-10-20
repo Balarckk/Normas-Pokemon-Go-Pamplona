@@ -7,7 +7,11 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 1. [Normas Básicas](#section1)
 2. [Grupos relacionados](#section2)
 3. [Registro y validación de usuarios](#section3)
-4. [Raids](#section4)
+4. [Registro de nidos y uso de Serbal](#section4)
+	1. [Registrarse en el bot](#section15)
+	2. [Validarse en el bot](#section16)
+	3. [Listas de nidos](#section17)
+5. [Raids](#section5)
 	1. [Crear una Raid](#section11)
     2. [Editar, cancelar y borrar una Raid](#section12)
 	3. [Apuntarse a una Raid](#section13)
@@ -69,7 +73,85 @@ https://bit.ly/2yTOi4I
 
 10 - Los admins también tenemos derecho de relajarnos y desconectar, así que nos ponemos un horario de validaciones que será entre las 8h y las 22h, cualquier petición fuera de ese horario será ignorada.
 
-## Raids<a name="section4">
+## Registro de nidos y uso de Serbal<a name="section4">
+
+Lo primero que hay que hacer para poder utilizar este bot, como con otros es registrarse y validarse, es opcional pero si quieres usarlo, tendrás que pasar por esto, para ello hay que seguir unos pasos que ya conocemos de otros bots.
+
+### Registrarse en el bot<a name="section15">
+
+`1 - /register o Quiero registrarme
+2 - Nick de entrenador
+3 - Nivel (solo números)
+4 - Color (equipo al que perteneces)`
+
+### Validarse en el bot<a name="section16">
+
+`1 - /validate o Quiero validarme
+2 - Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
+
+Una vez validado podrás hacer uso de las funcionalidades del bot, por ahora aqui solo se va a usar para nidos.
+
+Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede saberlo sin preguntar continuamente, lo único que has de hacer es compartir desde el juego tu código amigo con el chat pribado de Serbal.
+
+### Listas de nidos<a name="section17">
+
+* Registrar un nido
+
+**Con comando:** /addnest {Pokémon} {Ubicación}
+**Alias de texto:** Registrar nido de {Pokémon} en {Ubicación}
+
+**Ejemplos:**
+
+`/addnest Magikarp vuelta del castillo
+Registrar nido de Magikarp en vuelta del castillo`
+
+* Borrar un nido
+
+**Con comando:** /delnest {Pokémon} {Ubicación}
+**Alias de texto:** Borrar nido de {Pokémon} en {Ubicación}
+
+* Preguntar por una especie concreta
+
+**Con comando:** /findnest {Pokémon}
+**Alias de texto:** Dónde hay {Pokémon}[?]
+
+**Ejemplos de uso:**
+
+`/findnest Magikarp
+Dónde hay Magikarp?
+Donde hay magikarp`
+
+* Ver Pokémon anidados
+
+**Con comando:** /nests
+**Alias de texto:** Lista de nidos
+
+**Ejemplo de respuesta:**
+
+`Hay nidos de: Bulbasaur, Electrike, Doduo, Drowzee, Lugia.
+
+Puedes ver la lista completa con /listnests.`
+
+* Ver lista completamente
+
+**Con comando:** /listnests
+**Alias de texto:** Lista de nidos completa
+
+**Ejemplo de respuesta:**
+
+`Nidos del grupo Pokémon Go Pamplona
+
+• Bulbasaur: parque ribed
+• Electrike: vuelta del castillo
+• Doduo: parque uranga en burlada
+• Drowzee: parque de los aromas
+• Magikarp: yamaguchi
+
+Próxima migración: 20/09/18`
+
+**Con comando** es la forma mas corta de hacerlo pero tambien se puede hacer como pone en **Alias de texto**
+
+## Raids<a name="section5">
 
 ### Crear una Raid<a name="section11">
 
