@@ -16,6 +16,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	1. [Registrarse en el bot](#section15)
 	2. [Validarse en el bot](#section16)
 	3. [Listas de nidos](#section17)
+	4. [Cógigo amigo](#section17>
 
 ## Normas Básicas<a name="section1">
 
@@ -32,8 +33,6 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 * Se pueden enviar imagenes y demás multimedia siempre que no se abuse de ello, en la medida de lo posible evitar estas practicas ya que se satura el grupo de cosas inservibles para la mayoría, si se es pesado en este tema, puede conllevar limitación a la hora de enviar multimedia, lo mismo con los stikers.
 
 * No se pueden compartir imagenes de noticias que salen en el propio juego, asi como noticias de grupos que lanzan bulos sin fundamento como team evolution o team legendary, son bien conocidos por enviar falsas especulaciones.
-
-* Para evitar que vuelvan a suceder situaciones en las que hay gente que no quiere saber el contenido nuevo que hayan sacado (misiones y demás) usaremos el bot @SpoilerzBot, no cuesta nada y así no se molesta a nadie, no todos jugamos al mismo ritmo y creemos que es una buena manera de respetar a todos, el que juegue con esto, puede acabar baneado/expulsado.
 
 * No se va a permitir a la gente que se desapunte de una raid dependiendo de lo que ha salido, si no vas a participar si sale X pokemon, no te apuntes, espera a saber lo que sale, el desapuntarse de estas raids se considerará falta de respeto.
 
@@ -167,13 +166,13 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 
 ### Registrarse en el bot<a name="section15">
 
-`1 - /register o Quiero registrarme`
+`1 - /register o Quiero registrarme
 
-`2 - Nick de entrenador`
+2 - Nick de entrenador
 
-`3 - Nivel (solo números)`
+3 - Nivel (solo números)
 
-`4 - Color (equipo al que perteneces)`
+4 - Color (equipo al que perteneces)`
 
 ### Validarse en el bot<a name="section16">
 
@@ -195,9 +194,9 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 Ejemplos:
 
-`/addnest Magikarp vuelta del castillo`
+`/addnest Magikarp vuelta del castillo
 
-`Registrar nido de Magikarp en vuelta del castillo`
+Registrar nido de Magikarp en vuelta del castillo`
 
 * Borrar un nido
 
@@ -213,11 +212,11 @@ Ejemplos:
 
 Ejemplos de uso:
 
-`/findnest Magikarp`
+`/findnest Magikarp
 
-`Dónde hay Magikarp?`
+Dónde hay Magikarp?
 
-`Donde hay magikarp`
+Donde hay magikarp`
 
 * Ver Pokémon anidados
 
@@ -237,20 +236,40 @@ Ejemplo de respuesta:
 
 Ejemplo de respuesta:
 
-`Nidos del grupo Pokémon Go Pamplona`
+`Nidos del grupo Pokémon Go Pamplona
 
-`• Bulbasaur: parque ribed`
+• Bulbasaur: parque ribed
 
-`• Electrike: vuelta del castillo`
+• Electrike: vuelta del castillo
 
-`• Doduo: parque uranga en burlada`
+• Doduo: parque uranga en burlada
 
-`• Drowzee: parque de los aromas`
+• Drowzee: parque de los aromas
 
-`• Magikarp: yamaguchi`
+• Magikarp: yamaguchi
 
-`Próxima migración: 20/09/18`
+Próxima migración: 20/09/18`
 
 **Con comando** es la forma mas corta de hacerlo pero tambien se puede hacer como pone en **Alias de texto**
+
+### Código amigo<a name="section18">
+
+Como ya he explicado anteriormente puedes compartir con Serbal (totalmente opcional) el código de entrenador y participar en la lista del grupo, explico como hacerlo.
+
+Enviando por privado a Serbal el mensaje generado por el juego `¡Comencemos una buena amistad en Pokémon GO! ¡Mi código de Entrenador es xxxx yyyy zzzz!`
+
+**Borrar codigo amigo:**
+
+`• /set fc 000000000000 (12 ceros)`
+
+Ejemplo:
+
+`Yo:
+
+/set fc 000000000000
+
+Profesor Serbal:
+
+He actualizado tu código de amigo.`
 
 **CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**
