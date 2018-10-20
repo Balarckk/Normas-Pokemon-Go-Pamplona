@@ -141,8 +141,6 @@ Ejemplo de respuesta:
 
 `Hay nidos de: Bulbasaur, Electrike, Doduo, Drowzee, Magikarp.`
 
-Puedes ver la lista completa con /listnests.
-
 * Ver lista completa
 
 **Con comando:** /listnests
