@@ -79,19 +79,19 @@ Lo primero que hay que hacer para poder utilizar este bot, como con otros es reg
 
 ### Registrarse en el bot<a name="section15">
 
-`1 - /register o Quiero registrarme
+`1 - /register o Quiero registrarme`
 
-2 - Nick de entrenador
+`2 - Nick de entrenador`
 
-3 - Nivel (solo números)
+`3 - Nivel (solo números)`
 
-4 - Color (equipo al que perteneces)`
+`4 - Color (equipo al que perteneces)`
 
 ### Validarse en el bot<a name="section16">
 
-`1 - /validate o Quiero validarme
+`1 - /validate o Quiero validarme`
 
-2 - Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
+`2 - Enviar una captura de pantalla junto a tu compañero pokemon con el nombre de “serbalbot” antes de 5 minutos desde que esta hecha la captura.`
 
 Una vez validado podrás hacer uso de las funcionalidades del bot, por ahora aqui solo se va a usar para nidos.
 
@@ -107,9 +107,9 @@ Puedes compartir con Serbal tu código amigo y así de esa forma la gente puede 
 
 **Ejemplos:**
 
-`/addnest Magikarp vuelta del castillo
+`/addnest Magikarp vuelta del castillo`
 
-Registrar nido de Magikarp en vuelta del castillo`
+`Registrar nido de Magikarp en vuelta del castillo`
 
 * Borrar un nido
 
@@ -125,11 +125,11 @@ Registrar nido de Magikarp en vuelta del castillo`
 
 **Ejemplos de uso:**
 
-`/findnest Magikarp
+`/findnest Magikarp`
 
-Dónde hay Magikarp?
+`Dónde hay Magikarp?`
 
-Donde hay magikarp`
+`Donde hay magikarp`
 
 * Ver Pokémon anidados
 
@@ -139,7 +139,7 @@ Donde hay magikarp`
 
 **Ejemplo de respuesta:**
 
-`Hay nidos de: Bulbasaur, Electrike, Doduo, Drowzee, Lugia.
+`Hay nidos de: Bulbasaur, Electrike, Doduo, Drowzee, Magikarp.`
 
 Puedes ver la lista completa con /listnests.`
 
@@ -151,17 +151,17 @@ Puedes ver la lista completa con /listnests.`
 
 **Ejemplo de respuesta:**
 
-`Nidos del grupo Pokémon Go Pamplona
+`Nidos del grupo Pokémon Go Pamplona`
 
-• Bulbasaur: parque ribed
+`• Bulbasaur: parque ribed`
 
-• Electrike: vuelta del castillo
+`• Electrike: vuelta del castillo`
 
-• Doduo: parque uranga en burlada
+`• Doduo: parque uranga en burlada`
 
-• Drowzee: parque de los aromas
+`• Drowzee: parque de los aromas`
 
-• Magikarp: yamaguchi
+`• Magikarp: yamaguchi`
 
 Próxima migración: 20/09/18`
 
