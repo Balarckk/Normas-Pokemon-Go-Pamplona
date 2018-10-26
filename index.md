@@ -62,7 +62,7 @@ https://bit.ly/2yTOi4I
 
 3 - Abre un privado con @detectivepikachubot, dale abajo a iniciar, escribe /register y sigue las indicaciones, te pedirá otra captura de pantalla con unas condiciones específicas.
 
-4 - Cuando hayas recibido la confirmación de que estás validado escribe en el privado de pikachu /profile , abre privado con @profserbalbot y enviale la respuesta de pikachu a este.
+4 - Cuando hayas recibido la confirmación de que estás validado, abre privado con @profserbalbot y validate con el.
 
 5 - Envía una captura de pantalla de la confirmación de pikachu y otra de serbal en el grupo de validaciones.
 
