@@ -13,11 +13,10 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	3. [Apuntarse a una Raid](#section13)
 	4. [Añadir nuevos gimnasios a Pikachu](#section14)
 5. [Registro de nidos y uso de Serbal](#section5)
-	1. [Si ya estas validado con Pikachu](#section19)
-	2. [Registrarse en el bot](#section15)
-	3. [Validarse en el bot](#section16)
-	4. [Listas de nidos](#section17)
-	5. [Cógigo amigo](#section18)
+	1. [Registrarse en el bot](#section15)
+	2. [Validarse en el bot](#section16)
+	3. [Listas de nidos](#section17)
+	4. [Cógigo amigo](#section18)
 
 ## Normas Básicas<a name="section1">
 
@@ -170,10 +169,6 @@ Para poder mantener actualizada la lista de gimnasios del bot, cada vez que se a
 ## Registro de nidos y uso de Serbal<a name="section5">
 
 Lo primero que hay que hacer para poder utilizar este bot, como con otros es registrarse y validarse, para ello hay que seguir unos pasos que ya conocemos de otros bots.
-
-### Si ya estas validado con Picachu<a name="section19">
-
-Si ya estáis validados con Pikachu, que supongo que sois todos por el tema de las raids, le escribis a @detectivepikachubot por privado /profile y lo que os responda lo reenvíais a @profserbalbot y os valida automáticamente.
 
 ### Registrarse en el bot<a name="section15">
 
