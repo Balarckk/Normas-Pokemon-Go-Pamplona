@@ -16,7 +16,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	1. [Registrarse en el bot](#section15)
 	2. [Validarse en el bot](#section16)
 	3. [Listas de nidos](#section17)
-	4. [Cógigo amigo](#section18)
+	4. [Código amigo](#section18)
 
 ## Normas Básicas<a name="section1">
 
