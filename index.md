@@ -17,7 +17,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	2. [Validarse en el bot](#section16)
 	3. [Listas de nidos](#section17)
 	4. [Código amigo](#section18)
-	5. [Warns "avisos"] (#section19)
+	5. [Warns (avisos)](#section19)
 
 ## Normas Básicas<a name="section1">
 
@@ -309,7 +309,7 @@ La lista de códigos nunca se compartirá en el grupo, si alguien la quiere soli
 
 `**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS Y LISTA DE AMIGOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**`
 
-### Código amigo<a name="section19">
+### Warns (avisos)<a name="section19">
 
 Hemos activado un sistema de avisos. Las razones por las que se apercibe ahora a través del bot, son las mismas por las que antes se apercibía manualmente y mediante escritos en el grupo.
 Como hemos recibido varías peticiones, hemos recogido estos motivos por escrito para que todos los tengamos claros.
