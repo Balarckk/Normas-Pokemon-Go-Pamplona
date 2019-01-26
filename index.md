@@ -17,6 +17,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	2. [Validarse en el bot](#section16)
 	3. [Listas de nidos](#section17)
 	4. [Código amigo](#section18)
+	5. |Warns (avisos)] (section19)
 
 ## Normas Básicas<a name="section1">
 
@@ -148,7 +149,7 @@ Los participantes recibirán **avisos por privado** cuando se edite, cancele o b
 
 Al editar una hora hay las mismas restricciones que al crear la Raid. Con `/time` es **necesario especificar el día** si no es el día actual. Con `/endtime`, sin embargo, no es necesario, ya que por defecto se toma el mismo día en que se realiza la Raid.
 
-El creador de una Raid es el responsable de mantener informados a los jugadores de cualquier cambio en el curso de la Raid, horarios, ubicación, cancelación...pudiendo recibir baneo/expulsión de no hacerlo correctamente.
+El creador de una Raid es el responsable de mantener informados a los jugadores de cualquier cambio en el curso de la Raid, horarios, ubicación, cancelación, pokemón...pudiendo recibir baneo/expulsión de no hacerlo correctamente.
 
 ### Apuntarse a una Raid<a name="section13">
 
@@ -307,3 +308,21 @@ La lista de códigos nunca se compartirá en el grupo, si alguien la quiere soli
 `**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SU VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.**`
 
 `**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS Y LISTA DE AMIGOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**`
+
+### Código amigo<a name="section19">
+
+Hemos activado un sistema de avisos. Las razones por las que se apercibe ahora a través del bot, son las mismas por las que antes se apercibía manualmente y mediante escritos en el grupo.
+Como hemos recibido varías peticiones, hemos recogido estos motivos por escrito para que todos los tengamos claros.
+Son los siguientes:
+
+ 1 - Pedir nidos repetidamente si ya se han solicitado en el día o ultimas 24h, por favor usad el botón de busqueda.
+ 2 - Uso abusivo y reiterado de Stickers.
+ 3 - Fotos/multimedia irrelevantes (las infografias están permitidas).
+ 4 - Debates no relacionados con Pokémon.
+ 5 - Uso lenguaje ofensivo/homófobo/xenófobo.
+ 6 - Tener Block admins, si estáis en este grupo cualquier admin debe poder tener interacciones  con cada miembro.
+ 7 - Desapuntase de una Raid sin motivo justificado y no dar aviso dejando colgada la Raid.
+ 8 - Se crea una  Raid errónea y no se edita, optando por cancelar y creando una nueva.
+ 9 - Llegar tarde a las raids dejando colgado al grupo.
+
+Por otro lado os invitamos al uso del sentido común para aquellas cosas que no estén recogidas y que provocaría que esta lista fuese inmensa, esto es un grupo de Pokémon y los comentarios relacionados con el juego, preguntas, impresiones o experiencias  no solo son bien recibidas, sino que debe ser la temática general de conversación del grupo.  Os animamos a participar!
