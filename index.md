@@ -17,7 +17,7 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	2. [Validarse en el bot](#section16)
 	3. [Listas de nidos](#section17)
 	4. [Código amigo](#section18)
-	5. |Warns (avisos)] (section19)
+	5. [Warns (avisos)] (section19)
 
 ## Normas Básicas<a name="section1">
 
