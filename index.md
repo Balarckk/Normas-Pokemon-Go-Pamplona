@@ -316,13 +316,21 @@ Como hemos recibido varías peticiones, hemos recogido estos motivos por escrito
 Son los siguientes:
 
  1 - Pedir nidos repetidamente si ya se han solicitado en el día o ultimas 24h, por favor usad el botón de busqueda.
+ 
  2 - Uso abusivo y reiterado de Stickers.
+ 
  3 - Fotos/multimedia irrelevantes (las infografias están permitidas).
+ 
  4 - Debates no relacionados con Pokémon.
+ 
  5 - Uso lenguaje ofensivo/homófobo/xenófobo.
+ 
  6 - Tener Block admins, si estáis en este grupo cualquier admin debe poder tener interacciones  con cada miembro.
+ 
  7 - Desapuntase de una Raid sin motivo justificado y no dar aviso dejando colgada la Raid.
+ 
  8 - Se crea una  Raid errónea y no se edita, optando por cancelar y creando una nueva.
+ 
  9 - Llegar tarde a las raids dejando colgado al grupo.
 
 Por otro lado os invitamos al uso del sentido común para aquellas cosas que no estén recogidas y que provocaría que esta lista fuese inmensa, esto es un grupo de Pokémon y los comentarios relacionados con el juego, preguntas, impresiones o experiencias  no solo son bien recibidas, sino que debe ser la temática general de conversación del grupo.  Os animamos a participar!
