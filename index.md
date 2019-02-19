@@ -27,6 +27,8 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 
 * El hecho de no haber leído las normas, no implica que no pueda haber un aviso/sanción correspondiente.
 
+* No están permitidas las faltas de respeto hacia otros jugadores.
+
 * No se pueden compartir raids fuera de su grupo.
 
 * No se permite la entrada a menores de 18 años, en caso de hacer caso omiso de esta norma, se llevará un ban permanente.
