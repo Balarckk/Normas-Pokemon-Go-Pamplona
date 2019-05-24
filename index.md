@@ -297,7 +297,7 @@ Ejemplo:
 
 `/regfc` (sin argumentos)
 
-`**Despues de apuntarse a una lista, cada uno ha de borrar su comando.**`
+**Despues de apuntarse a una lista, cada uno ha de borrar su comando.**
 
 **Borrarse de una lista**
 
@@ -311,9 +311,9 @@ Si la lista contiene más de 5 codigos, Serbal dejará un botón para pedir que 
 
 La lista de códigos nunca se compartirá en el grupo, si alguien la quiere solicitar que se valide en el bot y si alguien la comparte, puede ser baneado.
 
-`**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SU VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.**`
+**LOS CÓDIGOS DE AMIGO SOLO SE PASAN FUERA DEL GRUPO SI EL DUEÑO DEL CÓDIGO DA SU VISTO BUENO, SI SE DAN MUCHOS CASOS DE CÓDIGOS PASADOS SIN PERMISO SE DESABILITARA LA LISTA Y SERÁ RESPONSABILIDAD DE CADA UNO TENERLO EN SU PERFIL.**
 
-`**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS Y LISTA DE AMIGOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**`
+**CUALQUIER OTRO COMANDO SE HARÁ POR PRIVADO CON EL BOT, POR AHORA SOLO LO USAREMOS PARA NIDOS Y LISTA DE AMIGOS, YA VEREMOS SI MERECE LA PENA IMPLEMENTAR ALGO MÁS**
 
 ### Warns (avisos)<a name="section19">
 
@@ -349,7 +349,7 @@ Las normas básicas son las mismas que en el resto de grupos, a estas añadimos 
 
 `1 - La idea del grupo es que podamos mandar avistamientos de pokémon que nos hayamos encontrado mientras jugamos asi como misiones.`
 
-`2 - **No se avisa ante cualquier pokémon que nos encontremos**, solo avisaremos de los pokémon muy raros de ver y que sus primeras evoluciones no sean frecuentes, durante eventos no avisaremos de estos pokémon raros si salen por el evento.`
+`2 - No se avisa ante cualquier pokémon que nos encontremos, solo avisaremos de los pokémon muy raros de ver y que sus primeras evoluciones no sean frecuentes, durante eventos no avisaremos de estos pokémon raros si salen por el evento.`
 
 `3 - No mandeis un avistamiento de un pokémon si ya ha pasado mucho rato ya que este no estará disponible para el resto.`
 
@@ -388,3 +388,5 @@ Los datos que te pedirá son:
 Después de todo esto se envia la información al grupo de avistamientos.
 
 Por ahora no vamos a ser exigentes con el uso del bot para estas cosas pero sería bueno que os acostumbréis a usarlo, es más limpio y tiene más información.
+
+
