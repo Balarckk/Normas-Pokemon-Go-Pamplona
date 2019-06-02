@@ -18,10 +18,6 @@ En estas normas, además de tratar de que haya una buena conducta y buen ambient
 	3. [Listas de nidos](#section17)
 	4. [Código amigo](#section18)
 	5. [Warns avisos](#section19)
-6. [Avistamientos](#section6)
-	1. [Normas básicas del grupo](#section20)
-	2. [Como avisar de un pokémon](#section21)
-	3. [Como avisar de una misión](#section22)
 
 ## Normas Básicas<a name="section1">
 
@@ -338,55 +334,3 @@ Son los siguientes:
 `8 - Llegar tarde a las raids dejando colgado al grupo.`
 
 Por otro lado os invitamos al uso del sentido común para aquellas cosas que no estén recogidas y que provocaría que esta lista fuese inmensa, esto es un grupo de Pokémon y los comentarios relacionados con el juego, preguntas, impresiones o experiencias  no solo son bien recibidas, sino que debe ser la temática general de conversación del grupo.  Os animamos a participar!
-
-## Avistamientos<a name="section6">
-
-Lo primero que hay que hacer para poder utilizar esta función, como con otras es registrarse y validarse, para ello hay que seguir los pasos para validarse descritos mas arriba.
-
-### Normas básicas del grupo<a name="section20">
-
-Las normas básicas son las mismas que en el resto de grupos, a estas añadimos las especificas para este grupo.
-
-`1 - La idea del grupo es que podamos mandar avistamientos de pokémon que nos hayamos encontrado mientras jugamos asi como misiones.`
-
-`2 - No se avisa ante cualquier pokémon que nos encontremos, solo avisaremos de los pokémon muy raros de ver y que sus primeras evoluciones no sean frecuentes, durante eventos no avisaremos de estos pokémon raros si salen por el evento.`
-
-`3 - No mandeis un avistamiento de un pokémon si ya ha pasado mucho rato ya que este no estará disponible para el resto.`
-
-`4 - Cualquier pokémon con IV 98% en adelante o IV 0% son bienvenidos.`
-
-`5 - Respecto a las misiones, todas las que den posible pokémon shiny asi como pokemon raros, son bienvenidas.`
-
-`6 - Cualquier duda se habla en el grupo general.`
-
-### Como avisar de un pokémon<a name="section21">
-
-`1 - Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo /avistamiento.`
-
-`2 - El bot os pedirá que mandéis una foto(más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (ejemplo: Es 98%, no sé cuanto tiempo le queda). A continuación os pedirá la ubicación y borrará los mensajes.`
-
-`3 - El bot reenviará la foto y la ubicación añadiendo dos botones: “Sigue ahí” y “No está” para que los miembros del grupo puedan indicar si el Pokémon aún no ha desaparecido.`
-
-`4 - Con cada voto se editará el mensaje con los últimos votos y la hora.`
-
-### Como avisar de una misión<a name="section22">
-
-Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando /addgroup en el grupo para registrarlo.
-
-Para crear una investigación debéis teclear por privado a @profserbalbot./research y el bot os guiará paso a paso con todo lo que necesita.
-
-Los datos que te pedirá son:
-
-`1 - ¿Cuál es el nombre de la poképarada en la que has encontrado la misión? (ejemplo: Mario World)`
-
-`2 - Ahora envíame el texto de la misión (ejemplo: Gana 3 Raids)`
-
-`3 - ¿Cuál es la recompensa por completar la misión? (ejemplo: Absol)`
-
-`4 - Por último, mándame la ubicación de la parada.`
-
-Después de todo esto se envia la información al grupo de avistamientos.
-
-Por ahora no vamos a ser exigentes con el uso del bot para estas cosas pero sería bueno que os acostumbréis a usarlo, es más limpio y tiene más información.
-
-
